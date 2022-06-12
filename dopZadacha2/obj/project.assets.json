@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gorde\\OneDrive\\Рабочий стол\\DZ\\dopZadacha2\\dopZadacha2.csproj",
+      "projectUniqueName": "C:\\Users\\gorde\\OneDrive\\Рабочий стол\\DZ\\dzS1\\dopZadacha2\\dopZadacha2.csproj",
       "projectName": "dopZadacha2",
-      "projectPath": "C:\\Users\\gorde\\OneDrive\\Рабочий стол\\DZ\\dopZadacha2\\dopZadacha2.csproj",
+      "projectPath": "C:\\Users\\gorde\\OneDrive\\Рабочий стол\\DZ\\dzS1\\dopZadacha2\\dopZadacha2.csproj",
       "packagesPath": "C:\\Users\\gorde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gorde\\OneDrive\\Рабочий стол\\DZ\\dopZadacha2\\obj\\",
+      "outputPath": "C:\\Users\\gorde\\OneDrive\\Рабочий стол\\DZ\\dzS1\\dopZadacha2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gorde\\AppData\\Roaming\\NuGet\\NuGet.Config"

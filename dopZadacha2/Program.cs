@@ -7,18 +7,12 @@ int count = 1;
 int c = a;
 if (b > a)
 {
-    while (b - c > a)
+    while (b - c >= a)
     {
         count++;
         c = c + a;
     }
-    Console.Write("Число ");
-    Console.Write(a);
-    Console.Write(" поместится в число ");
-    Console.Write(b);
-    Console.Write(" ");
-    Console.Write(count);
-    Console.Write(" раз(а)");
+    Console.Write("Число " + a + " поместится в число " + b + " " + count + " раз(а)");
 }
 else
 {
